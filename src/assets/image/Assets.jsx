@@ -81,7 +81,7 @@ import icecream2 from "./ice-cream2.webp";
 import icecream3 from "./ice-cream3.webp";
 import icecream4 from "./ice-cream4.webp";
 import icecream5 from "./ice-cream5.webp";
-import icecream6 from "./ice-cream6.webp";
+import icecream6 from "./Ice-cream6.webp";
 import indian_dish from "./Indian dishes.webp";
 import indian_dish1 from "./Indain dishes1.webp";
 import jalebi from "./Jalebi.webp";
